@@ -1,2 +1,3 @@
-This is a text that is gonna conflict.
-Well hello, conflict.
+# References
+
+* octocat 1 😈
